@@ -1,7 +1,5 @@
 # reactCV
 
-[![TypeScript](https://badgen.net/badge/TypeScript/100%25/3178c6?icon=typescript)](https://www.typescriptlang.org/)
-
 > My CV built with React and TypeScript.
 
 ## Overview
