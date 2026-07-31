@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Kasper Laine",
+    "email": "kasperlaine05@gmail.com",
+    "phone": "+358 44 0723762",
+    "location": "Helsingfors, Finland",
+    "summary": "Programutvecklare med praktisk erfarenhet av fullstack webbutveckling",
+    "about": "Motiverad programutvecklare som söker en juniorutvecklartjänst för att delta i verkliga projekt och växa i ett professionellt team. Erfarenhet av webbapplikationer med React, Node.js och Express samt moderna tekniker.",
+    "profiles": [
+      { "url": "https://github.com/LasperKaine", "label": "GitHub", "display": "github.com/LasperKaine" },
+      { "url": "https://linkedin.com/in/kasper-laine-4a131231", "label": "LinkedIn", "display": "linkedin.com/in/kasper-laine-4a131231" },
+      { "url": "https://kasper-laine-portfolio.vercel.app/", "label": "Portfolio", "display": "https://kasper-laine-portfolio.vercel.app/" }
+    ]
+  },
+  "work": [
+    {
+      "name": "Alfons Digital Oy",
+      "position": "Frontend- / WordPress-utvecklare",
+      "startDate": "8.1.2024",
+      "endDate": "25.5.2024",
+      "summary": "Utvecklade och underhöll WordPress-webbplatser med React, PHP och Tailwind. Byggde responsiva UI-komponenter och arbetade med moderna utvecklingsverktyg (Git, NPM). Samarbete i flera kundprojekt.",
+      "skills": ["React", "WordPress", "PHP", "Tailwind", "CSS", "SCSS", "Git", "NPM"],
+      "color": "#8e44ad"
+    },
+    {
+      "name": "Helsinki Business College Oy",
+      "position": "Ledare för sociala medier",
+      "startDate": "10.8.2022",
+      "endDate": "1.6.2023",
+      "summary": "Ansvarade för skolans Snapchat-konto, skapade innehåll och marknadsförde evenemang. Ökade studenternas engagemang och upprätthöll en konsekvent innehållsstrategi.",
+      "skills": ["Innehållsproduktion", "Sociala medier"],
+      "color": "#8e44ad"
+    },
+    {
+      "name": "Helsinki Business College Oy",
+      "position": "Streamer och moderator",
+      "startDate": "4.11.2022",
+      "endDate": "24.2.2023",
+      "summary": "Deltog i ett intensivt streamingmaratonevenemang. Hanterade live Twitch-streamar, modererade chatten och planerade streamingstrategin.",
+      "skills": ["Liveströmning", "Community management", "Innehållsplanering", "Twitch"],
+      "color": "#8e44ad"
+    },
+    {
+      "name": "Helsingfors stad",
+      "position": "IT-supportassistent (Digitalkkari)",
+      "startDate": "10.8.2022",
+      "endDate": "9.10.2022",
+      "summary": "Erbjöd praktisk IT-support, inklusive felsökning av utrustning, installation av datorer och vägledning av användare. Skapade användarvänlig dokumentation och deltog i digitala stödsessioner.",
+      "skills": ["Windows", "iOS", "Android", "Excel", "Word", "PowerPoint"],
+      "color": "#8e44ad"
+    },
+    {
+      "name": "Övrig erfarenhet",
+      "position": "Kundserviceuppgifter",
+      "startDate": "2020",
+      "endDate": "2024",
+      "summary": "Arbetade i ett högt tempo i butik och snabbmatsrestaurang. Fick erfarenhet av kundservice, teamwork och ansvarstagande.",
+      "color": "#8e44ad"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Metropolia yrkeshögskola",
+      "area": "Information- och kommunikationsteknik",
+      "studyType": "Ingenjör (YH), programvaruteknik",
+      "startDate": "2025",
+      "endDate": "Nuvarande",
+      "summary": "Studerar programvaruteknik vid Metropolia yrkeshögskola med inriktning på mjukvaruproduktion. Fokuserar på programvaruteknik, backend och modern applikationsutveckling, med exponering för data-drivna och AI-relaterade mjukvarukoncept. Utvecklar praktiska färdigheter i projekt med moderna webbtekniker och mjukvarudesignpraxis."
+    },
+    {
+      "institution": "Business College Helsinki",
+      "area": "Information- och kommunikationsteknik",
+      "studyType": "Yrkesexamen",
+      "startDate": "4.8.2021",
+      "endDate": "22.5.2024",
+      "summary": "Specialisering inom webbutveckling.",
+      "courses": [
+        "Webbutveckling (JavaScript, Node.js)",
+        "Frontendutveckling (HTML, CSS, React)",
+        "Att arbeta i mjukvaruutvecklingsteam",
+        "Grunderna i mjukvaruutveckling"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontendutveckling",
+      "keywords": ["HTML5", "CSS3", "JavaScript", "React", "Vue", "Tailwind", "WordPress", "SCSS", "TypeScript", "Astro"]
+    },
+    {
+      "name": "Backend och CMS",
+      "keywords": ["PHP", "WordPress", "Node.js", "Express.js", "REST API:er", "MySQL", "MariaDB", "HeidiSQL"]
+    },
+    {
+      "name": "Programmering",
+      "keywords": ["Python", "Java", "C#"]
+    },
+    {
+      "name": "Verktyg",
+      "keywords": ["Git", "NPM", "Visual Studio Code", "Nano", "Linux"]
+    },
+    {
+      "name": "Kontor och produktivitet",
+      "keywords": ["Word", "Excel", "PowerPoint"]
+    },
+    {
+      "name": "Kreativa verktyg",
+      "keywords": ["Photoshop", "Illustrator", "After Effects", "Premiere Pro"]
+    },
+    {
+      "name": "Hårdvara och IT",
+      "keywords": ["Datorbygge", "Underhåll", "Uppgradering"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finska",
+      "fluency": "Modersmål"
+    },
+    {
+      "language": "Engelska",
+      "fluency": "Bra"
+    },
+    {
+      "language": "Svenska",
+      "fluency": "Grundnivå"
+    }
+  ]
+}
