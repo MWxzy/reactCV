@@ -32,7 +32,7 @@ It demonstrates my experience, education, skills, and projects in a modern, visu
 git clone https://github.com/LasperKaine/reactCV.git
 cd reactCV
 npm install
-npm run dev    # or npm start
+npm run generate-pdf
 ```
 
 ---
