@@ -29,10 +29,10 @@ It demonstrates my experience, education, skills, and projects in a modern, visu
 ## Installation
 
 ```bash
-git clone https://github.com/LasperKaine/reactCV.git
+git clone https://github.com/MWxzy/reactCV.git
 cd reactCV
 npm install
-npm run dev    # or npm start
+npm run generate-pdf
 ```
 
 ---
